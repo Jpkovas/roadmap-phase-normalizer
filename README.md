@@ -1,4 +1,4 @@
-# roadmap-phase-normalizer skill repo
+# roadmap-phase-normalizer skill
 
 Repository ready for installation with `npx skills`.
 
