@@ -1,0 +1,4 @@
+interface:
+  display_name: "Roadmap Phase Normalizer"
+  short_description: "Audita roadmap e organiza próximas fases"
+  default_prompt: "Use $roadmap-phase-normalizer para auditar meu roadmap, identificar itens abandonados e normalizar as próximas fases."
