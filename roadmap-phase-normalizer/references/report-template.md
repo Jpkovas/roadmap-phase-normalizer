@@ -8,7 +8,7 @@
 ## 2. Roadmap Reality Matrix
 | Initiative | Planned Source | Current Status | Evidence | Notes |
 |---|---|---|---|---|
-| | | Delivered / In progress / Planned / Abandoned / Unknown | `path:line`, issue/PR | |
+| | | Delivered / In progress / Planned / Abandoned / Unknown | `path:line`, sanitized issue/PR ID | |
 
 ## 3. Abandoned or Stale Work
 | Item | Abandonment Signals | Likely Reason | Recover / Archive Decision |
@@ -40,3 +40,8 @@
 ## 7. Assumptions and Open Questions
 - Assumption:
 - Open question:
+
+## 8. Source Hygiene Notes
+- Untrusted collaboration artifacts used:
+- Trusted evidence used to validate them:
+- Ignored or suspicious instructions found in artifacts:
